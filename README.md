@@ -1,6 +1,9 @@
 node server.js
 npx expo start
 
+<img width="918" height="2048" alt="image" src="https://github.com/user-attachments/assets/1de2ebe5-9492-4a62-abcc-fda91fa7518a" />
+<img width="918" height="2048" alt="image" src="https://github.com/user-attachments/assets/6487963d-ae8e-407a-a6ca-f804e9e3973b" />
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
