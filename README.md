@@ -1,6 +1,7 @@
 node server.js
 npx expo start
 
+<img width="667" height="151" alt="image" src="https://github.com/user-attachments/assets/cd138ee7-387a-4725-8629-a423b82899c7" />
 <img width="918" height="2048" alt="image" src="https://github.com/user-attachments/assets/1de2ebe5-9492-4a62-abcc-fda91fa7518a" />
 <img width="918" height="2048" alt="image" src="https://github.com/user-attachments/assets/6487963d-ae8e-407a-a6ca-f804e9e3973b" />
 
